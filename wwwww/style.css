@@ -1,0 +1,132 @@
+
+.jacquesfrancois-normal-black-32px {
+    color: var(--black);
+    font-family: var(--font-family-jacques_francois);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.rectangle-4-M8SSUb {
+  background-color: 
+transparent;
+  height: 1300px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+.rectangle-19 {
+    background-color: var(--silk);
+    border-radius: 30px 30px 0px 0px;
+    box-shadow: 10px 5px 5px #00000040;
+    height: 75px;
+    left: 567px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 61px;
+    width: 1019px;
+}
+.avatar2-removebg-preview-1-M8SSUb {
+    background-color:
+        transparent;
+    height: 712px;
+    left: 528px;
+    mix-blend-mode: normal;
+    object-fit: cover;
+    position: absolute;
+    top: 262px;
+    width: 391px;
+}
+.rectangle-4-M8SSUb {
+    background-color:
+        transparent;
+    height: 738px;
+    left: 348px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 255px;
+    width: 382px;
+}
+@import url("https://fonts.googleapis.com/css?family=Jacques+Francois:400");
+
+.hello-i-am-elodie-m-M8SSUb {
+    background-color:
+        transparent;
+    height: auto;
+    left: 906px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: hard-light;
+    position: absolute;
+    text-align: left;
+    top: 388px;
+    width: 680px;
+}
+
+.span2-5JW9lZ {
+    color: var(--black);
+    font-family: var(--font-family-jacques_francois);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 400;
+}
+
+.span1-5JW9lZ {
+    color: var(--black);
+    font-family: var(--font-family-jacques_francois);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 400;
+}
+
+.span0-5JW9lZ {}
+.rectangle-5-M8SSUb {
+    background-color: var(--silk);
+    border-radius: 20px;
+    box-shadow: 5px 7px 4px #00000040;
+    height: 41px;
+    left: 906px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 612px;
+    width: 302px;
+}
+@import url("https://fonts.googleapis.com/css?family=Jacques+Francois:400");
+
+.download-my-cv-M8SSUb {
+    background-color:
+        transparent;
+    height: auto;
+    left: 929px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 611px;
+    width: auto;
+}
+.rectangle-1-oeljBW {
+    background-color:
+        transparent;
+    height: 1101px;
+    left: 0px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 0px;
+    width: 1756px;
+}
+:root {
+    --black:
+        rgba(0, 0, 0, 1);
+    --silk:
+        rgba(192, 169, 169, 1);
+
+    --font-size-m: 32px;
+    --font-size-l: 36px;
+    --font-size-xl: 64px;
+
+    --font-family-jacques_francois: "Jacques Francois";
+}
